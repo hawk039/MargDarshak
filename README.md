@@ -1,152 +1,63 @@
 # Marg Darshak
 
-An AI-powered philosophical guidance app designed to help people navigate life's inner battles with clarity, reflection, and practical wisdom.
+Marg Darshak is an AI-powered philosophical guidance app designed to help people navigate life's inner battles with greater clarity, perspective, and calm.
 
----
+Through natural conversations, the app helps users reflect on challenges such as uncertainty, fear, attachment, difficult decisions, purpose, discipline, and personal growth.
 
-## Vision
-
-Modern life often leaves people overwhelmed by uncertainty, fear, attachment, anxiety, difficult decisions, and questions about purpose.
-
-Marg Darshak is being built to provide calm, thoughtful, and actionable guidance inspired by timeless wisdom traditions while leveraging modern AI technology.
-
-The goal is not to replace human judgment or professional support, but to offer perspective, self-reflection, and clarity during moments of confusion.
-
----
-
-## What Marg Darshak Does
-
-Users can engage in natural conversations about:
-
-* Overthinking
-* Fear and uncertainty
-* Career decisions
-* Relationships
-* Attachment and expectations
-* Discipline and self-control
-* Purpose and meaning
-* Personal growth
-* Internal conflicts
-
-The system responds with practical guidance rooted in philosophical principles rather than generic motivational advice.
-
----
-
-## Core Principles
-
-### Wisdom Before Information
-
-Marg Darshak focuses on helping users understand situations rather than simply providing answers.
-
-### Clarity Over Complexity
-
-Responses are designed to be calm, simple, and actionable.
-
-### Reflection Over Dependency
-
-The goal is to strengthen independent thinking rather than create reliance on the application.
-
-### Technology Serving Wisdom
-
-Modern AI is used as a delivery mechanism for timeless human insights.
-
----
+Rather than offering generic motivational advice, Marg Darshak aims to provide thoughtful guidance inspired by timeless wisdom traditions and presented in a practical, modern, and accessible way.
 
 ## Features
 
-### AI Guidance Conversations
+* Conversational AI guidance
+* Reflection-driven interactions
+* Practical and actionable insights
+* Calm, non-judgmental responses
+* Context-aware conversations
+* Wisdom-informed guidance
+* Personalized user experience
 
-Natural conversations focused on personal challenges and self-reflection.
+## Use Cases
 
-### Wisdom-Informed Responses
+Marg Darshak can help users explore topics such as:
 
-Responses are grounded in structured philosophical knowledge extracted from trusted wisdom literature.
+* Overthinking and mental clutter
+* Fear and uncertainty
+* Career and life decisions
+* Relationships and expectations
+* Discipline and consistency
+* Purpose and meaning
+* Emotional resilience
+* Personal growth
 
-### Context-Aware Guidance
+## Design Philosophy
 
-The system aims to understand the user's situation before offering suggestions.
+### Clarity Over Complexity
 
-### Practical Action Steps
+The goal is to simplify difficult situations and help users see them more clearly.
 
-Each interaction should help users move from reflection to action.
+### Reflection Over Dependency
 
----
+Marg Darshak encourages thoughtful reflection rather than blind reliance on answers.
 
-## Technology Stack
+### Practical Wisdom
 
-### Frontend
+Insights should lead to meaningful action, not just intellectual understanding.
+
+### Calm Conversations
+
+Every interaction is designed to feel supportive, grounded, and free from unnecessary noise.
+
+## Technology
+
+Built with:
 
 * Flutter
 * Dart
-* Clean Architecture
-* MVVM
-* Provider / Riverpod
-
-### Backend Services
-
-* FastAPI
-* Knowledge Processing Service
-* RAG Pipeline (Planned)
-* Local LLM Support (Planned)
-
-### AI Roadmap
-
-* Fine-Tuned Philosophical Models
-* Retrieval-Augmented Generation (RAG)
-* Local Model Support
-* Offline Guidance Modes
-
----
-
-## Architecture
-
-```text
-Flutter App
-      ↓
-Marg Darshak Backend
-      ↓
-AI Knowledge Service
-      ↓
-Wisdom Knowledge Base
-      ↓
-RAG / Fine-Tuned Models
-      ↓
-Guidance Responses
-```
-
----
-
-## Current Development Status
-
-Phase 1
-
-* Knowledge extraction platform ✓
-* Wisdom dataset generation ✓
-* Dataset quality validation ✓
-
-Phase 2
-
-* Flutter application development
-* User experience design
-* AI integration
-
-Phase 3
-
-* Fine-tuned model deployment
-* RAG implementation
-* Production release
-
----
-
-## Long-Term Goal
-
-To build a trustworthy AI companion that helps people find clarity, perspective, and direction during life's most challenging moments by combining timeless wisdom with modern technology.
-
----
+* Modern AI technologies
+* FastAPI backend services
 
 ## Disclaimer
 
 Marg Darshak is intended for philosophical guidance, reflection, and personal growth.
 
-It is not a substitute for professional medical, psychological, legal, or financial advice.
-
+It is not a substitute for professional medical, psychological, legal, financial, or emergency assistance.
